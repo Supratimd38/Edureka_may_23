@@ -1,0 +1,4 @@
+INFO  | 2023-04-23 15:20:21 | [main] bankapp.Hello (Hello.java:9) - hello to logging
+INFO  | 2023-04-29 11:31:06 | [main] demo2.NeedOfLogging (NeedOfLogging.java:19) - ---code is working till line no 6----
+INFO  | 2023-04-29 11:31:06 | [main] demo2.NeedOfLogging (NeedOfLogging.java:25) - ---code is working till line no 12----
+INFO  | 2023-04-29 11:31:06 | [main] demo2.NeedOfLogging (NeedOfLogging.java:37) - ---code is working till line no 37----
